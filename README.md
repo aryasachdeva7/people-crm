@@ -1,6 +1,6 @@
 # 🧠 People — Personal CRM
 
-A calm, minimal personal CRM for remembering people you meet. No accounts, no servers, no subscriptions. Just open the file and start adding people.
+A personal CRM for remembering people you meet. No accounts, no servers, no subscriptions. Just open the file and start adding people.
 
 Built as a single self-contained HTML file that runs entirely in your browser.
 
@@ -83,5 +83,3 @@ Want to change the name or accent colour? Open the file in any text editor and s
 - `#B8845A` to change the accent colour (warm brown by default)
 
 ---
-
-*Made with Claude - [claude.ai](https://claude.ai)*
