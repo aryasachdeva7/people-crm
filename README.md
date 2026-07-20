@@ -5,7 +5,6 @@ A personal CRM for remembering people you meet. No accounts, no servers, no subs
 Built as a single self-contained HTML file that runs entirely in your browser.
 
 ---
-https://aryasachdeva7.github.io/people-crm/people-crm-arya.html
 ## What it does
 
 Whenever you meet someone new, open the app, add them in under 15 seconds, and find them again later. That's it.
